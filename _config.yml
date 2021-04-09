@@ -1,7 +1,0 @@
-url: "https://calculquebec.github.io" # Protocol and base hostname
-baseurl: "/analyse-donnees-python"    # Subpath of the site
-title: Analyse de données et visualisation en Python
-lang: fr
-
-exclude:
-- README.md
